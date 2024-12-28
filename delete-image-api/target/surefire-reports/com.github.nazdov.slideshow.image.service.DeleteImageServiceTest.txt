@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.github.nazdov.slideshow.image.service.DeleteImageServiceTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 24.73 s -- in com.github.nazdov.slideshow.image.service.DeleteImageServiceTest

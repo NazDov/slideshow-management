@@ -1,0 +1,21 @@
+**/*/application-local.yml
+**/*/application-dev-local.yml
+**/*/application-dev.yml
+**/node_modules
+**/pids
+**/*/pom.xml.versionsBackup
+*.pid
+dist/
+target/
+**/.angular/cache/
+.idea/
+.DS_Store
+
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Thumbs.db
+**/.idea

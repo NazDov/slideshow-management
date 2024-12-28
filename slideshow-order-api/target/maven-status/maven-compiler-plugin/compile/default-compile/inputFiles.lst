@@ -1,8 +1,0 @@
-/Users/mac/Desktop/slideshow-management/slideshow-order-api/src/main/java/com/github/nazdov/slideshow/config/SlideshowOrderConfig.java
-/Users/mac/Desktop/slideshow-management/slideshow-order-api/src/main/java/com/github/nazdov/slideshow/controller/SlideshowOrderController.java
-/Users/mac/Desktop/slideshow-management/slideshow-order-api/src/main/java/com/github/nazdov/slideshow/SlideshowOrderApplication.java
-/Users/mac/Desktop/slideshow-management/slideshow-order-api/src/main/java/com/github/nazdov/slideshow/service/SlideshowOrderService.java
-/Users/mac/Desktop/slideshow-management/slideshow-order-api/src/main/java/com/github/nazdov/slideshow/dto/SlideshowImageResponse.java
-/Users/mac/Desktop/slideshow-management/slideshow-order-api/src/main/java/com/github/nazdov/slideshow/dto/SlideshowOrderResponse.java
-/Users/mac/Desktop/slideshow-management/slideshow-order-api/src/main/java/com/github/nazdov/slideshow/validation/SlideshowOrderEventValidator.java
-/Users/mac/Desktop/slideshow-management/slideshow-order-api/src/main/java/com/github/nazdov/slideshow/dto/SlideshowOrder.java
