@@ -1,0 +1,42 @@
+server:
+  port: 8080
+
+spring:
+  r2dbc:
+    url: r2dbc:pool:mysql://${DB_URL:localhost}:3306/${DB_NAME:sm-db}?createDatabaseIfNotExist=true&useSSL=false&serverTimezone=UTC
+    username: ${DB_USER:sm-db-user}
+    password: ${DB_PASSWORD:test}
+    show-sql: ${DB_SHOW_SQL:false}
+  flyway:
+    enabled: 'true'
+    user: ${DB_USER:sm-db-user}
+    password: ${DB_PASSWORD:test}
+    locations: classpath:migrations
+    url: jdbc:mysql://${DB_URL:localhost}:3306/${DB_NAME:sm-db}?useSSL=false&allowPublicKeyRetrieval=true
+  main:
+    allow-bean-definition-overriding: true
+  kafka:
+    bootstrap-servers: ${KAFKA_CONNECT:localhost:9092}
+    producer:
+      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+      value-serializer: org.apache.kafka.common.serialization.StringSerializer
+logging:
+  level:
+    org.springframework.data.r2dbc: DEBUG
+    io.r2dbc.proxy: DEBUG
+    org.springframework.r2dbc.core: DEBUG
+    org.apache.kafka: DEBUG
+    org.springframework.kafka: DEBUG
+slideshow:
+  kafka:
+    topic:
+      name: ${KAFKA_CONNECT:slideshow_event_logs}
+
+springdoc:
+  api-docs:
+    enabled: true
+    path: /v1/api-docs
+  swagger-ui:
+    enabled: true
+    path: v1/swagger-ui.html
+

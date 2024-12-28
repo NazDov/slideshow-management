@@ -1,0 +1,8 @@
+/Users/mac/Desktop/slideshow-management/search-api/src/main/java/com/github/nazdov/slideshow/image/dto/ImageResponse.java
+/Users/mac/Desktop/slideshow-management/search-api/src/main/java/com/github/nazdov/slideshow/image/dto/SlideshowResponse.java
+/Users/mac/Desktop/slideshow-management/search-api/src/main/java/com/github/nazdov/slideshow/image/SearchApplication.java
+/Users/mac/Desktop/slideshow-management/search-api/src/main/java/com/github/nazdov/slideshow/image/config/SearchConfig.java
+/Users/mac/Desktop/slideshow-management/search-api/src/main/java/com/github/nazdov/slideshow/image/controller/SearchController.java
+/Users/mac/Desktop/slideshow-management/search-api/src/main/java/com/github/nazdov/slideshow/image/dto/SearchResponse.java
+/Users/mac/Desktop/slideshow-management/search-api/src/main/java/com/github/nazdov/slideshow/image/service/SearchService.java
+/Users/mac/Desktop/slideshow-management/search-api/src/main/java/com/github/nazdov/slideshow/image/validation/SearchQueryEventValidator.java

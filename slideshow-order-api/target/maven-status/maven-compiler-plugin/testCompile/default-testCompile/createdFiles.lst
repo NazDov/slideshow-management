@@ -1,0 +1,5 @@
+com/github/nazdov/slideshow/config/AbstractTestContainersIntegrationTest.class
+com/github/nazdov/slideshow/validation/SlideshowOrderValidationTest.class
+com/github/nazdov/slideshow/config/TestConfig.class
+com/github/nazdov/slideshow/service/SlideshowOrderServiceTest.class
+com/github/nazdov/slideshow/controller/SlideshowOrderControllerTest.class

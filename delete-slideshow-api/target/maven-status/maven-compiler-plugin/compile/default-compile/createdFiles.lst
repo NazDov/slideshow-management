@@ -1,0 +1,5 @@
+com/github/nazdov/slideshow/controller/DeleteSlideshowController.class
+com/github/nazdov/slideshow/validation/DeleteSlideshowEventValidator.class
+com/github/nazdov/slideshow/service/DeleteSlideshowService.class
+com/github/nazdov/slideshow/DeleteSlideshowApplication.class
+com/github/nazdov/slideshow/config/DeleteSlideshowConfig.class

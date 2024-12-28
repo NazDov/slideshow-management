@@ -1,0 +1,5 @@
+com/github/nazdov/slideshow/image/config/TestConfig.class
+com/github/nazdov/slideshow/image/controller/DeleteSlideshowControllerTest.class
+com/github/nazdov/slideshow/image/config/AbstractTestContainersIntegrationTest.class
+com/github/nazdov/slideshow/image/validation/DeleteSlideshowEventValidatorTest.class
+com/github/nazdov/slideshow/image/service/DeleteSlideshowServiceTest.class

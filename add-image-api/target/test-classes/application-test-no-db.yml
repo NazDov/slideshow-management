@@ -1,0 +1,6 @@
+wiremock:
+  server:
+    port: 0
+    port-dynamic: true
+server:
+  port: 0

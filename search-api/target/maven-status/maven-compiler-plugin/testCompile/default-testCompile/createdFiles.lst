@@ -1,0 +1,4 @@
+com/github/nazdov/slideshow/image/config/TestConfig.class
+com/github/nazdov/slideshow/image/config/AbstractTestContainersIntegrationTest.class
+com/github/nazdov/slideshow/image/service/SearchServiceTest.class
+com/github/nazdov/slideshow/image/controller/SearchControllerTest.class

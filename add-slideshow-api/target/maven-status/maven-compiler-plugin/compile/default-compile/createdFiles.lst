@@ -1,0 +1,11 @@
+com/github/nazdov/slideshow/controller/AddSlideshowController.class
+com/github/nazdov/slideshow/mapper/AddSlideshowResponseMapper.class
+com/github/nazdov/slideshow/dto/AddSlideshowRequest.class
+com/github/nazdov/slideshow/AddSlideshowApplication.class
+com/github/nazdov/slideshow/validation/AddSlideshowEventValidator.class
+com/github/nazdov/slideshow/config/AddSlideshowConfig.class
+com/github/nazdov/slideshow/mapper/AddSlideshowRequestMapper.class
+com/github/nazdov/slideshow/service/AddSlideshowService.class
+com/github/nazdov/slideshow/dto/AddSlideshowRequest$AddSlideshowRequestBuilder.class
+com/github/nazdov/slideshow/dto/AddSlideshowResponse$AddSlideshowResponseBuilder.class
+com/github/nazdov/slideshow/dto/AddSlideshowResponse.class

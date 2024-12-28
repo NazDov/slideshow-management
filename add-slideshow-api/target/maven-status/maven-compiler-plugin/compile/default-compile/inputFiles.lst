@@ -1,0 +1,9 @@
+/Users/mac/Desktop/slideshow-management/add-slideshow-api/src/main/java/com/github/nazdov/slideshow/config/AddSlideshowConfig.java
+/Users/mac/Desktop/slideshow-management/add-slideshow-api/src/main/java/com/github/nazdov/slideshow/dto/AddSlideshowResponse.java
+/Users/mac/Desktop/slideshow-management/add-slideshow-api/src/main/java/com/github/nazdov/slideshow/AddSlideshowApplication.java
+/Users/mac/Desktop/slideshow-management/add-slideshow-api/src/main/java/com/github/nazdov/slideshow/dto/AddSlideshowRequest.java
+/Users/mac/Desktop/slideshow-management/add-slideshow-api/src/main/java/com/github/nazdov/slideshow/mapper/AddSlideshowRequestMapper.java
+/Users/mac/Desktop/slideshow-management/add-slideshow-api/src/main/java/com/github/nazdov/slideshow/controller/AddSlideshowController.java
+/Users/mac/Desktop/slideshow-management/add-slideshow-api/src/main/java/com/github/nazdov/slideshow/validation/AddSlideshowEventValidator.java
+/Users/mac/Desktop/slideshow-management/add-slideshow-api/src/main/java/com/github/nazdov/slideshow/service/AddSlideshowService.java
+/Users/mac/Desktop/slideshow-management/add-slideshow-api/src/main/java/com/github/nazdov/slideshow/mapper/AddSlideshowResponseMapper.java

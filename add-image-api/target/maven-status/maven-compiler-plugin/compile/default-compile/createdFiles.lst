@@ -1,0 +1,11 @@
+com/github/nazdov/slideshow/image/service/AddImageService.class
+com/github/nazdov/slideshow/image/dto/AddImageRequest.class
+com/github/nazdov/slideshow/image/mapper/AddImageRequestMapper.class
+com/github/nazdov/slideshow/image/AddImageApplication.class
+com/github/nazdov/slideshow/image/dto/AddImageResponse.class
+com/github/nazdov/slideshow/image/mapper/AddImageResponseMapper.class
+com/github/nazdov/slideshow/image/config/AddImageConfig.class
+com/github/nazdov/slideshow/image/controller/AddImageController.class
+com/github/nazdov/slideshow/image/validation/AddImageEventValidator.class
+com/github/nazdov/slideshow/image/dto/AddImageRequest$AddImageRequestBuilder.class
+com/github/nazdov/slideshow/image/dto/AddImageResponse$AddImageResponseBuilder.class

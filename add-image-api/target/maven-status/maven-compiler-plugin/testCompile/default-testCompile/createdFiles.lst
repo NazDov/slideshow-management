@@ -1,0 +1,5 @@
+com/github/nazdov/slideshow/image/config/TestConfig.class
+com/github/nazdov/slideshow/image/config/AbstractTestContainersIntegrationTest.class
+com/github/nazdov/slideshow/image/controller/AddImageControllerTest.class
+com/github/nazdov/slideshow/image/validation/AddImageEventValidatorTest.class
+com/github/nazdov/slideshow/image/service/AddImageServiceTest.class

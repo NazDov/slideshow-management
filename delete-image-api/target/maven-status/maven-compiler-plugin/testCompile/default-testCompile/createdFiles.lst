@@ -1,0 +1,5 @@
+com/github/nazdov/slideshow/image/config/TestConfig.class
+com/github/nazdov/slideshow/image/validation/DeleteImageEventValidatorTest.class
+com/github/nazdov/slideshow/image/config/AbstractTestContainersIntegrationTest.class
+com/github/nazdov/slideshow/image/controller/DeleteImageControllerTest.class
+com/github/nazdov/slideshow/image/service/DeleteImageServiceTest.class

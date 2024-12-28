@@ -1,0 +1,15 @@
+spring:
+  r2dbc:
+    url: r2dbc:mysql://${DB_URL:localhost}:3306/${MYSQL_DATABASE:sm-db}?createDatabaseIfNotExist=true&useSSL=false&serverTimezone=UTC
+    username: test
+    password: test
+    pool:
+      max-size: 20
+      initial-size: 10
+      validation-query: SELECT 1
+      max-idle-time: 30s
+  flyway:
+    enabled: 'false'
+
+server:
+  port: 0

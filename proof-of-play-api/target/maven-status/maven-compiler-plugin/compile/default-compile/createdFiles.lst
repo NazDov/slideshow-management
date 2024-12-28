@@ -1,0 +1,5 @@
+com/github/nazdov/slideshow/service/ProofOfPlayService.class
+com/github/nazdov/slideshow/validation/ProofOfPlayEventValidator.class
+com/github/nazdov/slideshow/config/ProofOfPlayConfig.class
+com/github/nazdov/slideshow/controller/ProofOfPlayController.class
+com/github/nazdov/slideshow/SlideshowOrderApplication.class
